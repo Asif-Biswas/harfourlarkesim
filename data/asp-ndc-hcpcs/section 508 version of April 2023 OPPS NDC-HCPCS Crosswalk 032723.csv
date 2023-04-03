@@ -1,0 +1,278 @@
+April 2023 OPPS NDC - HCPCS Crosswalk for Medicare Part B Drugs,,,,,,,,,
+"     Effective April 1, 2023 through June 30, 2023",,,,,,,,,
+,,,,,,,,,
+The ASP crosswalks are maintained by the Division of Data Analysis and Market Based Pricing to support ASP-based Medicare Part B payments only. The crosswalks are intended to help the public (including entities that submit manufacturer ASP data and providers who bill for drugs) understand which drug products (identified by NDCs) are assigned to which HCPCS billing codes. The crosswalks are not intended to be a comprehensive list of all drugs/NDCs available in the United States. The NDC to HCPCS Crosswalk also includes information on the NDC package size and the number of billable units (as defined by the HCPCS code descriptor). Comments on the file may be sent to sec303aspdata@cms.hhs.gov.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+_2023_CODE,Short Descriptor,LABELER NAME,NDC or ALTERNATE ID,Drug Name,HCPCS Dosage,PKG SIZE,PKG QTY,BILLUNITS,BILLUNITSPKG
+A9513,Lutetium Lu 177 dotatat ther,ADVANCED ACCELERATOR APPLICATIONS,69488-0003-01,LUTATHERA,1 MCI,20,1,200,200
+A9543,"Y90 ibritumomab, rx",SPECTRUM PHARMACEUTICALS,68152-0103-03,ZEVALIN Y-90,UP TO 40 millicuries,1,1,1,1
+A9543,"Y90 ibritumomab, rx",ACROTECH BIOPHARMA,72893-0007-04,ZEVALIN Y-90,UP TO 40 millicuries,1,1,1,1
+A9590,Iodine i-131 therapeutic,"PROGENICS PHARMACEUTICALS, INC.",71258-0015-22,AZEDRA therapeutic,1 mCi,1,1,1,1
+A9591,Fluoroestradiol F 18,ZIONEXA US CORPORATION,72874-0001-01,Cerianna,1 mCi,50,1,6,6
+A9592,Copper cu 64 dotatate diag,CURIUM US LLC,69945-0064-01,Detectnet,1 mCi,4,1,4,4
+A9593,Gallium ga-68 psma-11 ucsf,UCSF RADIOPHARMACEUTICAL FACILITY,24275-0525-01,Gallium Ga 68 PSMA (UCSF),1 mCi,11,1,1,1
+A9594,"Gallium ga-68 psma-11, ucla",UCLA BIOMEDICAL CYCLOTRON,76394-2642-03,Gallium Ga 68 PSMA (UCLA),1 mCi,12,1,1,1
+A9595,"Piflu f-18, dia 1 millicurie","PROGENICS PHARMACEUTICALS, INC",71258-0022-00,Pylarify,1 millicurie,1,1,9,9
+A9596,Gallium illuccix 1 millicure,"TELIX PHARMACEUTICALS, INC.",74725-0100-25,ILLUCCIX,1 mCi,1,1,1,1
+A9596,Gallium illuccix 1 millicure,"TELIX PHARMACEUTICALS, INC.",74725-0100-64,ILLUCCIX,1 mCi,1,1,1,1
+A9600,Sr89 strontium,QBIOMED INC,72928-0089-01,Strontium Chloride Sr 89,PER MILLICURIE,4,1,1,4
+A9602,Fluorodopa f-18 diag per mci,THE FEINSTEIN INSTITUTES FOR MEDICAL RESEARCH,13267-0346-57,Fluorodopa F18,1 mCi,1,1,1,1
+A9604,Sm 153 lexidronam,"LANTHEUS MEDICAL IMAGING, INC.",11994-0016-01,QUADRAMET,up to 150 millicuries,3,1,1,1
+A9606,Radium Ra223 dichloride ther,BAYER HEALTHCARE PHARMACEUTICALS INC.,50419-0208-01,Xofigo,1 mCi,6,1,1,1
+A9607,Lutetium lu 177 vipivotide,"ADVANCED ACCELERATOR APPLICATIONS USA, INC",69488-0010-61,PLUVICTO,1 mCi,1,1,1,1
+A9800,Gallium locametz 1 millicuri,"ADVANCED ACCELERATOR APPLICATIONS USA, INC",69488-0017-61,LOCAMETZ,1 mCi,1,1,1,1
+C9047,"Injection, caplacizumab-yhdp",GENZYME CORPORATION,58468-0225-01,Cablivi,1 MG,1,1,11,11
+C9067,Gallium ga-68 Dotatoc,UIHC-PET IMAGING CENTER,24417-0681-30,Dotatoc Ga 68,0.01 mCi,14,1,400,400
+C9088,"Instill, bupivac and meloxic",HERON THERAPEUTICS,47426-0301-02,Zynrelef,1 mg - 0.03 mg,14 ML,1,400,400
+C9088,"Instill, bupivac and meloxic","HERON THERAPEUTICS, INC.",47426-0302-02,Zynrelef,1 mg - 0.03 mg,10.5 ML,1,300,300
+C9088,"Instill, bupivac and meloxic",HERON THERAPEUTICS,47426-0303-01,Zynrelef,1 mg - 0.03 mg,7 ML,1,200,200
+C9088,"Instill, bupivac and meloxic","HERON THERAPEUTICS, INC.",47426-0304-01,Zynrelef,1 mg - 0.03 mg,2.3 ML,1,60,60
+C9089,"Bupivacaine implant, 1 mg",INNOCOLL PHARMACEUTICALS LIMITED,51715-0100-04,Xaracoll,1 mg,1,12,100,1200
+C9089,"Bupivacaine implant, 1 mg",INNOCOLL PHARMACEUTICALS LIMITED,51715-0100-10,Xaracoll,1 mg,1,30,100,3000
+C9101,"Inj, oliceridine 0.1 mg","TREVENA, INC.",71308-0011-10,Olinvyk,0.1 MG,1,10,10,100
+C9101,"Inj, oliceridine 0.1 mg","TREVENA, INC.",71308-0021-10,Olinvyk,0.1 MG,2,10,20,200
+C9101,"Inj, oliceridine 0.1 mg","TREVENA, INC.",71308-0301-10,Olinvyk,0.1 MG,30,10,300,3000
+C9144,"Inj, bupivacaine (posimir)",INNOCOLL PHARMACEUTICALS,51715-0660-10,Posimir,1 MG,5,10,660,6600
+C9145,"Inj, aponvie, 1 mg","HERON THERAPEUTICS, INC.",47426-0401-10,APONVIE,1 MG,4.4,10,32,320
+C9146,"Inj, elahere, 1 mg","Immunogen, Inc.",72903-0853-01,ELAHERE,1 MG,20,1,100,100
+C9147,"Inj, tremelimumab-actl, 1 mg","Astrazeneca Pharmaceuticals, Lp",00310-4505-25,IMJUDO,1 MG,1.25,1,25,25
+C9147,"Inj, tremelimumab-actl, 1 mg","Astrazeneca Pharmaceuticals, Lp",00310-4535-30,IMJUDO,1 MG,15,1,300,300
+C9148,"Inj, teclistamab-cqyv, 0.5mg","Janssen Biotech, Inc.",57894-0449-01,TECVAYLI,0.5 MG,3,1,60,60
+C9148,"Inj, teclistamab-cqyv, 0.5mg","Janssen Biotech, Inc.",57894-0450-01,TECVAYLI,0.5 MG,1.7,1,306,306
+C9149,"Inj, teplizumab-mzwv, 5 mcg","Provention Bio, Inc.",73650-0316-01,TZIELD,5 MCG,2,1,400,400
+C9149,"Inj, teplizumab-mzwv, 5 mcg","Provention Bio, Inc.",73650-0316-10,TZIELD,5 MCG,2,10,400,4000
+C9149,"Inj, teplizumab-mzwv, 5 mcg","Provention Bio, Inc.",73650-0316-14,TZIELD,5 MCG,2,14,400,5600
+C9248,"Inj, clevidipine butyrate","CHIESI USA, INC.",10122-0610-10,CLEVIPREX,1 MG,50,10,25,250
+C9248,"Inj, clevidipine butyrate","CHIESI USA, INC.",10122-0611-10,CLEVIPREX,1 MG,100,10,50,500
+C9257,Bevacizumab injection,"GENENTECH, INC.",50242-0060-01,Avastin,0.25 MG,4,1,400,400
+C9257,Bevacizumab injection,"GENENTECH, INC.",50242-0060-10,Avastin,0.25 MG,4,10,400,4000
+C9257,Bevacizumab injection,"GENENTECH, INC.",50242-0061-01,Avastin,0.25 MG,16,1,1600,1600
+C9257,Bevacizumab injection,"GENENTECH, INC.",50242-0061-10,Avastin,0.25 MG,16,10,1600,16000
+C9290,"Inj, bupivacaine liposome",PACIRA PHARMACEUTICALS,65250-0133-04,EXPAREL,1 MG,10,4,133,532
+C9290,"Inj, bupivacaine liposome",PACIRA PHARMACEUTICALS,65250-0133-09,EXPAREL,1 MG,10,10,133,1330
+C9290,"Inj, bupivacaine liposome",PACIRA PHARMACEUTICALS,65250-0266-04,EXPAREL,1 MG,20,4,266,1064
+C9290,"Inj, bupivacaine liposome",PACIRA PHARMACEUTICALS,65250-0266-09,EXPAREL,1 MG,20,10,266,2660
+C9460,"Injection, cangrelor","CHIESI USA, INC.",10122-0620-10,KENGREAL,1 MG,1,10,50,500
+C9482,Sotalol hydrochloride IV,ALTATHERA PHARMACEUTICALS,69724-0112-10,Sotalol,1MG,10,1,150,150
+C9488,Conivaptan HCL,CUMBERLAND PHARMACEUTICALS,66220-0160-10,VAPRISOL,1 MG,100,1,20,20
+J0135,Adalimumab injection,"ABBVIE US, LLC",00074-3799-02,Humira,20 MG,0.8,2,2,4
+J0135,Adalimumab injection,"ABBVIE US, LLC",00074-4339-02,Humira,20 MG,0.8,2,2,4
+J0135,Adalimumab injection,"ABBVIE US, LLC",00074-4339-06,Humira,20 MG,0.8,6,2,12
+J0135,Adalimumab injection,"ABBVIE US, LLC",00074-4339-07,Humira,20 MG,0.8,4,2,8
+J0208,Inj sodium thiosulfate 100mg,FENNEC PHARMACEUTICALS INC.,73077-0010-01,Sodium Thiosulfate,100 MG,100,1,125,125
+J0470,Dimecaprol injection,AKORN,17478-0526-03,Bal In Oil,100 MG,3,10,3,30
+J0570,Buprenorphine implant 74.2mg,TITAN PHARMACEUTICALS,52440-0100-14,PROBUPHINE SYSTEM KIT,74.2 MG,1,4,1,4
+J0641,Levoleucovorin injection,HIKMA PHARMACEUTICALS USA INC.,00143-9558-01,Levoleucovorin Calcium,0.5 MG,1,1,100,100
+J0641,Levoleucovorin injection,SANDOZ,00781-3201-94,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0641,Levoleucovorin injection,NORTHSTAR RX LLC,16714-0890-01,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0641,Levoleucovorin injection,NORTHSTAR RX LLC,16714-0915-01,Levoleucovorin Calcium,0.5 MG,25,1,500,500
+J0641,Levoleucovorin injection,"DR. REDDY'S LABORATORIES, INC.",43598-0771-11,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0641,Levoleucovorin injection,"DR. REDDY'S LABORATORIES, INC.",43598-0773-11,Levoleucovorin Calcium,0.5 MG,25,1,500,500
+J0641,Levoleucovorin injection,"INGENUS PHARMACEUTICALS, LLC",50742-0494-17,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0641,Levoleucovorin injection,"INGENUS PHARMACEUTICALS, LLC",50742-0495-25,Levoleucovorin Calcium,0.5 MG,25,1,500,500
+J0641,Levoleucovorin injection,AMNEAL BIOSCIENCES,70121-1099-01,Levoleucovorin Calcium,0.5 MG,1,1,100,100
+J0641,Levoleucovorin injection,AMNEAL BIOSCIENCES,70121-1572-01,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0641,Levoleucovorin injection,FOSUN PHARMA,72266-0120-01,Levoleucovorin Calcium,0.5 MG,17.5,1,350,350
+J0699,"Inj, cefiderocol, 10 mg",SHIONOGI INC,59630-0266-10,Fetroja,10 MG,1,10,100,1000
+J0716,Centruroides immune f(ab),"RARE DISEASE THERAPEUTICS, INC.",66621-0150-02,ANASCORP,UP TO 120MG,1,1,1,1
+J0879,"Difelikefalin, esrd on dialy",Vifor,59353-0065-01,Korsuva,0.1 mcg,1.3,1,65,650
+J0879,"Difelikefalin, esrd on dialy",Vifor,59353-0065-12,Korsuva,0.1 mcg,1.3,1,65,7800
+J0883,Argatroban nonesrd use 1mg,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0930-61,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9288-01,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9377-01,Argatroban,1 MG,50,1,50,50
+J0883,Argatroban nonesrd use 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9559-01,ARGATROBAN,1 MG,50,1,50,50
+J0883,Argatroban nonesrd use 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9674-01,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,PFIZER INC.,00409-1140-01,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,SAGENT PHARMACEUTICALS INC,25021-0414-50,ARGATROBAN,1 MG,50,1,50,50
+J0883,Argatroban nonesrd use 1mg,"PAR PHARMACEUTICAL, INC",42023-0182-01,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,FRESENIUS KABI,63323-0526-03,Argatroban,1 MG,2.5,1,250,250
+J0883,Argatroban nonesrd use 1mg,FRESENIUS KABI,65219-0429-50,ARGATROBAN,1 MG,50,1,50,50
+J0883,Argatroban nonesrd use 1mg,MYLAN INSTITUTIONAL LLC,67457-0212-02,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0930-61,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9288-01,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9377-01,Argatroban,1 MG,50,1,50,50
+J0884,Argatroban esrd dialysis 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9559-01,ARGATROBAN,1 MG,50,1,50,50
+J0884,Argatroban esrd dialysis 1mg,HIKMA PHARMACEUTICALS USA INC.,00143-9674-01,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,PFIZER INC.,00409-1140-01,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,SAGENT PHARMACEUTICALS INC,25021-0414-50,ARGATROBAN,1 MG,50,1,50,50
+J0884,Argatroban esrd dialysis 1mg,"PAR PHARMACEUTICAL, INC",42023-0182-01,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,FRESENIUS KABI,63323-0526-03,Argatroban,1 MG,2.5,1,250,250
+J0884,Argatroban esrd dialysis 1mg,FRESENIUS KABI,65219-0429-50,ARGATROBAN,1 MG,50,1,50,50
+J0884,Argatroban esrd dialysis 1mg,MYLAN INSTITUTIONAL LLC,67457-0212-02,Argatroban,1 MG,2.5,1,250,250
+J1096,Dexametha opth insert 0.1 mg,OCULAR THERAPEUTIX,70382-0204-01,Dextenza,0.1 MG,1,1,4,4
+J1096,Dexametha opth insert 0.1 mg,OCULAR THERAPEUTIX,70382-0204-10,Dextenza,0.1 MG,1,10,4,40
+J1097,Phenylep ketorolac opth soln,OMEROS CORPORATION,62225-0600-04,Omidria (phenylephrine 1% + ketorolac 0.3% irrigation),1 ML,4,4,4,16
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0100-10,Hemgenix,Per Therapeutic Dose,10,10,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0110-11,Hemgenix,Per Therapeutic Dose,10,11,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0120-12,Hemgenix,Per Therapeutic Dose,10,12,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0130-13,Hemgenix,Per Therapeutic Dose,10,13,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0140-14,Hemgenix,Per Therapeutic Dose,10,14,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0150-15,Hemgenix,Per Therapeutic Dose,10,15,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0160-16,Hemgenix,Per Therapeutic Dose,10,16,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0170-17,Hemgenix,Per Therapeutic Dose,10,17,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0180-18,Hemgenix,Per Therapeutic Dose,10,18,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0190-19,Hemgenix,Per Therapeutic Dose,10,19,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0200-20,Hemgenix,Per Therapeutic Dose,10,20,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0210-21,Hemgenix,Per Therapeutic Dose,10,21,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0220-22,Hemgenix,Per Therapeutic Dose,10,22,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0230-23,Hemgenix,Per Therapeutic Dose,10,23,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0240-24,Hemgenix,Per Therapeutic Dose,10,24,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0250-25,Hemgenix,Per Therapeutic Dose,10,25,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0260-26,Hemgenix,Per Therapeutic Dose,10,26,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0270-27,Hemgenix,Per Therapeutic Dose,10,27,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0280-28,Hemgenix,Per Therapeutic Dose,10,28,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0290-29,Hemgenix,Per Therapeutic Dose,10,29,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0300-30,Hemgenix,Per Therapeutic Dose,10,30,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0310-31,Hemgenix,Per Therapeutic Dose,10,31,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0320-32,Hemgenix,Per Therapeutic Dose,10,32,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0330-33,Hemgenix,Per Therapeutic Dose,10,33,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0340-34,Hemgenix,Per Therapeutic Dose,10,34,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0350-35,Hemgenix,Per Therapeutic Dose,10,35,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0360-36,Hemgenix,Per Therapeutic Dose,10,36,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0370-37,Hemgenix,Per Therapeutic Dose,10,37,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0380-38,Hemgenix,Per Therapeutic Dose,10,38,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0390-39,Hemgenix,Per Therapeutic Dose,10,39,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0400-40,Hemgenix,Per Therapeutic Dose,10,40,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0410-41,Hemgenix,Per Therapeutic Dose,10,41,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0420-42,Hemgenix,Per Therapeutic Dose,10,42,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0430-43,Hemgenix,Per Therapeutic Dose,10,43,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0440-44,Hemgenix,Per Therapeutic Dose,10,44,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0450-45,Hemgenix,Per Therapeutic Dose,10,45,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0460-46,Hemgenix,Per Therapeutic Dose,10,46,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0470-47,Hemgenix,Per Therapeutic Dose,10,47,1,1
+J1411,"Inj, hemgenix, per tx dose",CSL Behring,00053-0480-48,Hemgenix,Per Therapeutic Dose,10,48,1,1
+J1426,"Injection, casimersen, 10 mg",SAREPTA,60923-0227-02,Amondys 45,10 MG,2,1,10,10
+J1427,Inj. viltolarsen,NS PHARMA INC,73292-0011-01,Viltepso,10 MG,5,1,25,25
+J1429,Inj golodirsen 10 mg,SAREPTA,60923-0465-02,Vyondys 53,10 MG,2,1,10,10
+J1438,Etanercept injection,"AMGEN USA, INC.",58406-0425-34,Enbrel,25 MG,1,4,1,4
+J1438,Etanercept injection,"AMGEN USA, INC.",58406-0435-04,Enbrel (Etanercept),25 MG,1,4,2,8
+J1438,Etanercept injection,"AMGEN USA, INC.",58406-0445-04,Enbrel,25 MG,1,4,2,8
+J1438,Etanercept injection,"AMGEN USA, INC.",58406-0455-04,Enbrel,25 MG,0.5,4,1,4
+J1449,Inj eflapegrastim-xnst 0.1mg,"Spectrum Pharmaceuticals, Inc.",76961-0101-01,ROLVEDON,0.1 MG,0.6,1,132,132
+J1451,"Fomepizole, 15 mg",AMERICAN REGENT,00517-0710-01,FOMEPIZOLE,15 MG,1.5,1,100,100
+J1451,"Fomepizole, 15 mg",MYLAN INSTITUTIONAL LLC,67457-0211-02,FOMEPIZOLE,15 MG,1.5,1,100,100
+J1451,"Fomepizole, 15 mg",ZYDUS PHARMACEUTICALS,70710-1478-01,Fomepizole,15 MG,1.5,1,100,100
+J1455,Foscarnet sodium injection,SAGENT PHARMACEUTICALS INC,25021-0189-84,FOSCARNET SODIUM,1000 MG,250,10,6,60
+J1455,Foscarnet sodium injection,FRESENIUS KABI,63323-0875-50,Foscarnet Sodium,1000 MG,250,1,6,6
+J1573,"Hepagam b intravenous, inj",SAOL THERAPEUTICS,70257-0051-51,Hepagam B,0.5 ML,5,1,10,10
+J1573,"Hepagam b intravenous, inj",SAOL THERAPEUTICS,70257-0052-51,HEPAGAM B,0.5 ML,1,1,2,2
+J1573,"Hepagam b intravenous, inj",SAOL THERAPEUTICS,70257-0053-51,Hepagam B,0.5 ML,1,1,2,2
+J1573,"Hepagam b intravenous, inj",SAOL THERAPEUTICS,70257-0054-51,Hepagam B,0.5 ML,5,1,10,10
+J1595,Injection glatiramer acetate,"TEVA NEUROSCIENCE, INC.",68546-0317-30,Copaxone,20 MG,1,30,1,30
+J1595,Injection glatiramer acetate,"TEVA NEUROSCIENCE, INC.",68546-0325-12,Copaxone,20 MG,1,12,2,24
+J1628,"Inj., guselkumab, 1 mg","JANSSEN BIOTECH, INC.",57894-0640-01,Tremfya,1 MG,1,1,100,100
+J1628,"Inj., guselkumab, 1 mg","JANSSEN BIOTECH, INC.",57894-0640-11,Tremfya,1 MG,1,1,100,100
+J1632,"Inj, brexanolone",SAGE THERAPEUTICS,72152-0547-20,Zulresso,1 MG,20,1,100,100
+J1726,"Inj, Makena",AMERICAN REGENT,00517-1767-01,MAKENA,10 MG,1,1,25,25
+J1726,"Inj, Makena",AMERICAN REGENT,00517-1791-01,Hydroxyprogesterone Caproate,10 MG,1,1,25,25
+J1726,"Inj, Makena",AUROMEDICS PHARMA LLC,55150-0309-01,Hydroxyprogesterone Caproate,10 MG,1,1,25,25
+J1726,"Inj, Makena",AUROMEDICS PHARMA LLC,55150-0310-01,Hydroxyprogesterone Caproate,10 MG,5,1,125,125
+J1726,"Inj, Makena","AMAG PHARMACEUTICALS, INC.",64011-0247-02,MAKENA,10 MG,1,1,25,25
+J1726,"Inj, Makena","AMAG PHARMACEUTICALS, INC.",64011-0301-03,Makena Auto Injector,10 MG,1.1,1,27.5,27.5
+J1726,"Inj, Makena",MYLAN INSTITUTIONAL LLC,67457-0886-05,Hydroxyprogesterone Caproate,10 MG,1,1,125,125
+J1726,"Inj, Makena",MYLAN INSTITUTIONAL LLC,67457-0967-01,Hydroxyprogesterone Caproate,10 MG,1,1,25,25
+J1726,"Inj, Makena","AMNEAL PHARMACEUTICALS, LLC",69238-1797-01,Hydroxyprogesterone Caproate,10 MG,1,1,25,25
+J1726,"Inj, Makena",SLAYBACK PHARMA,71225-0104-01,Hydroxyprogesterone Caproate,10 MG,5,1,125,125
+J1726,"Inj, Makena",SLAYBACK PHARMA,71225-0105-01,Hydroxyprogesterone Caproate,10 MG,1,1,25,25
+J1742,Ibutilide fumarate injection,PFIZER INC.,00009-3794-01,Corvert,1 MG,10,1,1,1
+J1742,Ibutilide fumarate injection,PFIZER INC.,00009-3794-22,Corvert,1 MG,10,1,1,1
+J1742,Ibutilide fumarate injection,MYLAN INSTITUTIONAL LLC,67457-0366-10,IBUTILIDE FUMARATE,1 MG,10,1,1,1
+J1744,Icatibant injection,LEUCADIA PHARMACEUTICALS,24201-0207-01,ICATIBANT,1 MG,3,1,30,30
+J1744,Icatibant injection,LEUCADIA PHARMACEUTICALS,24201-0207-03,ICATIBANT,1 MG,3,3,30,90
+J1744,Icatibant injection,"TAKEDA PHARMACEUTICALS AMERICA, INC.",54092-0702-02,ICATIBANT,1 MG,3,1,30,30
+J1744,Icatibant injection,"TAKEDA PHARMACEUTICALS AMERICA, INC.",54092-0702-03,ICATIBANT,1 MG,3,3,30,90
+J1744,Icatibant injection,FRESENIUS KABI,63323-0574-86,ICATIBANT,1 MG,3,1,30,30
+J1744,Icatibant injection,FRESENIUS KABI,63323-0574-93,ICATIBANT,1 MG,3,3,30,90
+J1744,Icatibant injection,CIPLA USA INC.,69097-0664-34,ICATIBANT,1 MG,3,1,30,30
+J1744,Icatibant injection,CIPLA USA INC.,69097-0664-68,ICATIBANT,1 MG,3,3,30,90
+J1833,"Inj, isavuconazonium sulfate",ASTELLAS PHARMA US INC.,00469-0420-99,CRESEMBA injection,1mg (as sulfate),1,10,372,3720
+J1954,"Injection, leuprolide acetate for depot suspension (cipla), 7.5 mg","Cipla Usa, Inc.",69097-0909-50,Leuprolide Acetate,7.5 MG,1,1,3,3
+J2186,"Inj., meropenem, vaborbactam","MELINTA THERAPEUTICS, INC.",70842-0120-06,Vabomere (meropenem-vaborbactam),(10 MG/10MG) 20 MG,1,6,100,600
+J2265,Minocycline hydrochloride,"MELINTA THERAPEUTICS, INC.",70842-0160-10,MINOCIN,1 MG ,1,10,100,1000
+J2326,"Injection, nusinersen",BIOGEN,64406-0058-01,Spinraza,0.1 MG,5,1,120,120
+J2403,"Chloroprocaine opht gel, 1mg","Harrow Eye, Llc.",82667-0300-01,IHEEZO,1 MG,1,1,800,800
+J2403,"Chloroprocaine opht gel, 1mg","Harrow Eye, Llc.",82667-0300-10,IHEEZO,1 MG,1,10,800,8000
+J2502,"Inj, pasireotide long acting",NOVARTIS PHARMACEUTICALS CORPORATION,00078-0641-81,Signifor LAR,1 MG,1,1,20,20
+J2502,"Inj, pasireotide long acting",NOVARTIS PHARMACEUTICALS CORPORATION,00078-0642-81,Signifor LAR,1 MG,1,1,40,40
+J2502,"Inj, pasireotide long acting",NOVARTIS PHARMACEUTICALS CORPORATION,00078-0643-81,Signifor LAR,1 MG,1,1,60,60
+J2502,"Inj, pasireotide long acting",NOVARTIS PHARMACEUTICALS CORPORATION,00078-0741-81,Signifor LAR,1 MG,1,1,30,30
+J2502,"Inj, pasireotide long acting",NOVARTIS PHARMACEUTICALS CORPORATION,00078-0748-81,Signifor LAR,1 MG,1,1,10,10
+J2502,"Inj, pasireotide long acting",RECORDATI RARE DISEASES,55292-0139-01,Signifor Lar,1 MG,1,1,10,10
+J2502,"Inj, pasireotide long acting",RECORDATI RARE DISEASES,55292-0140-01,Signifor Lar,1 MG,1,1,20,20
+J2502,"Inj, pasireotide long acting",RECORDATI RARE DISEASES,55292-0141-01,Signifor Lar,1 MG,1,1,30,30
+J2502,"Inj, pasireotide long acting",RECORDATI RARE DISEASES,55292-0142-01,Signifor Lar,1 MG,1,1,40,40
+J2502,"Inj, pasireotide long acting",RECORDATI RARE DISEASES,55292-0143-01,Signifor Lar,1 MG,1,1,60,60
+J2515,Pentobarbital sodium inj,AKORN,17478-0181-20,Pentobarbital,50 MG,20,1,20,20
+J2515,Pentobarbital sodium inj,AKORN,17478-0181-50,Pentobarbital,50 MG,50,1,50,50
+J2515,Pentobarbital sodium inj,LEUCADIA PHARMACEUTICALS,24201-0010-20,Pentobarbital,50 MG,20,1,20,20
+J2515,Pentobarbital sodium inj,LEUCADIA PHARMACEUTICALS,24201-0010-50,Pentobarbital,50 MG,50,1,50,50
+J2515,Pentobarbital sodium inj,SAGENT PHARMACEUTICALS INC,25021-0676-20,Pentobarbital,50 MG,20,1,20,20
+J2515,Pentobarbital sodium inj,SAGENT PHARMACEUTICALS INC,25021-0676-50,Pentobarbital,50 MG,50,1,50,50
+J2515,Pentobarbital sodium inj,OAK,76478-0501-20,Nembutal,50 MG,20,1,20,20
+J2515,Pentobarbital sodium inj,OAK,76478-0501-50,Nembutal,50 MG,50,1,50,50
+J2547,"Injection, peramivir",BIOCRYST,72769-0181-03,Rapivab,1 MG,20,3,200,600
+J2770,Quinupristin/dalfopristin,PFIZER INC.,61570-0260-10,Synercid,500 MG,1,10,1,10
+J2840,"Injection, sebelipase alfa",ALEXION PHARMACEUTICALS,25682-0007-01,Kanuma,1 MG,10,1,20,20
+J2850,Inj secretin synthetic human,"CHIRHOCLIN, INC.",67066-0005-01,CHIRHOSTIM,1 MCG,1,1,16,16
+J2993,Reteplase injection,"CHIESI USA, INC.",10122-0141-02,RETAVASE KIT,18.1 MG,1,2,1,2
+J2998,Inj plasminogen tvmh 1mg,Prometic,70573-0099-01,Ryplazim,1 mg,1,1,68.8,68.8
+J2998,Inj plasminogen tvmh 1mg,Prometic,70573-0099-02,Ryplazim,1 mg,1,1,68.8,68.8
+J3031,"Inj., fremanezumab-vfrm 1 mg",NUPATHE INC,51759-0202-10,Ajovy,1 MG,1.5,1,225,225
+J3031,"Inj., fremanezumab-vfrm 1 mg",NUPATHE INC,51759-0202-22,Ajovy,1 MG,1.5,3,225,675
+J3031,"Inj., fremanezumab-vfrm 1 mg",NUPATHE INC,51759-0204-10,Ajovy,1 MG,1.5,1,225,225
+J3316,"Inj., triptorelin xr 3.75 mg",ARBOR PHARMACEUTICAL,24338-0150-20,Triptodur,3.75 MG,1,1,6,6
+J3398,Inj luxturna 1 billion vec g,"SPARK THERAPEUTICS, INC.",71394-0415-01,LUXTURNA,1 billion vector genomes,0.5,1,150,150
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0120-02,Zolgensma 2x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),16.6,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0121-03,Zolgensma 2x5.5 mL vial and 1x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),19.3,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0122-03,Zolgensma 1x5.5 mL vial and 2x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),22.1,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0123-03,Zolgensma 3x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),24.9,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0124-04,Zolgensma 2x5.5 mL vial and 2x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),27.6,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0125-04,Zolgensma 1x5.5 mL vial and 3x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),30.4,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0126-04,Zolgensma 4x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),33.2,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0127-05,Zolgensma 2x5.5 mL vial and 3x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),35.9,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0128-05,Zolgensma 1x5.5 mL vial and 4x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),38.7,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0129-05,Zolgensma 5x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),41.5,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0130-06,Zolgensma 2x5.5 mL vial and 4x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),44.2,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0131-06,Zolgensma 1x5.5 mL vial and 5x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),47,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0132-06,Zolgensma 6x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),49.8,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0133-07,Zolgensma 2x5.5 mL vial and 5x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),52.5,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0134-07,Zolgensma 1x5.5 mL vial and 6x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),55.3,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0135-07,Zolgensma 7x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),58.1,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0136-08,Zolgensma 2x5.5 mL vial and 6x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),60.8,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0137-08,Zolgensma 1x5.5 mL vial and 7x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),63.6,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0138-08,Zolgensma 8x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),66.4,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0139-09,Zolgensma 2x5.5 mL vial and 7x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),69.1,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0140-09,Zolgensma 1x5.5 mL vial and 9x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),71.9,1,1,1
+J3399,Inj onase abepar-xioi treat,AVEXIS,71894-0141-09,Zolgensma 9x8.3 mL vial Kit,per tx dose (up to 5 x10^15 vg?),74.7,1,1,1
+J7168,Prothrombin complex kcentra,CSL BEHRING LLC,63833-0386-02,Kcentra,1 IU,1,1,1,1
+J7168,Prothrombin complex kcentra,CSL BEHRING LLC,63833-0387-02,Kcentra,1 IU,1,1,1,1
+J7169,"Inj andexxa, 10 mg",ALEXION PHARMACEUTICALS,69853-0102-01,Andexxa,10 MG,1,4,20,80
+J7352,"Afamelanotide implant, 1 mg",CLINUVEL,73372-0116-01,Scenesse,1 MG,1,1,16,16
+J7501,Azathioprine parenteral,HIKMA PHARMACEUTICALS USA INC.,00143-9566-01,AZATHIOPRINE INJECTION,100 MG,1,1,1,1
+J9019,Erwinaze injection,"JAZZ PHARMACEUTICALS, INC.",57902-0249-05,ERWINAZE,"1,000 IU",1,5,10,50
+J9048,"Inj, bortezomib freseniuskab",FRESENIUS KABI,63323-0721-10,Bortezomib,0.1 MG,1,1,35,35
+J9057,"Inj., copanlisib, 1 mg",BAYER HEALTHCARE PHARMACEUTICALS INC.,50419-0385-01,ALIQOPA,1 MG,1,1,60,60
+J9225,Vantas implant,ENDO PHARMACEUTICALS VALERA INC.,67979-0500-01,Vantas implant,50 MG,1,1,1,1
+J9247,"Inj, melphalan flufenami 1mg","ONCOPEPTIDES, INC.",73657-0020-01,Pepaxto,1 MG,1,1,20,20
+J9302,Ofatumumab injection,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0669-13,ARZERRA,10 MG,5,3,10,30
+J9302,Ofatumumab injection,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0690-61,ARZERRA,10 MG,50,1,100,100
+J9318,Inj romidepsin non-lyo 0.1mg,"SICOR PHARMACEUTICALS, INC.",00703-4004-01,Romidepsin non-lyophilized,0.1 MG,5.5,1,275,275
+J9348,"Inj. naxitamab-gqgk, 1 mg",Y-MABS THERAPEUTICS,73042-0201-01,Danyelza,1 MG,10,1,40,40
+J9371,"Inj, Vincristine sul lip 1mg",SPECTRUM PHARMACEUTICALS,20536-0322-01,Vincristine Sulfate,1 MG,1,1,5,5
+J9371,"Inj, Vincristine sul lip 1mg",ACROTECH BIOPHARMA,72893-0008-03,Vincristine Sulfate,1 MG,1,1,5,5
+J9600,Porfimer sodium injection,"PINNACLE BIOLOGICS, INC.",76128-0155-75,Photofrin,75 MG,1,1,1,1
+Q2042,Tisagenlecleucel car-pos t,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0846-19,Kymriah (pediatric dose),up to 600 million CAR-positive viable T cells,1,1,1,1
+Q2042,Tisagenlecleucel car-pos t,NOVARTIS PHARMACEUTICALS CORPORATION,00078-0958-19,Kymriah (adult dose),up to 600 million CAR-positive viable T cells,1,1,1,1
+Q2054,lisocabtagene car pos t,"JUNO THERAPEUTICS, INC. WHOLLY OWNED SUBSIDIARIES OF BRISTOL MYERS SQUIBB",73153-0900-01,Breyanzi,"Up to 110 million CAR-positive viable T cells, per therapeutic dose",1,1,1,1
+Q2055,Idecabtagene car pos t,CELGENE CORPORATION,59572-0515-01,Abecma,UP TO 460 MILLION AUTOLOGOUS ANTI-BCMA CAR-POSITIVE VIABLE T CELLS,1,1,1,1
+Q2055,Idecabtagene car pos t,CELGENE CORPORATION,59572-0515-02,Abecma,UP TO 460 MILLION AUTOLOGOUS ANTI-BCMA CAR-POSITIVE VIABLE T CELLS,1,1,1,1
+Q2055,Idecabtagene car pos t,CELGENE CORPORATION,59572-0515-03,Abecma,UP TO 460 MILLION AUTOLOGOUS ANTI-BCMA CAR-POSITIVE VIABLE T CELLS,1,1,1,1
+Q2056,Ciltacabtagene car-pos t,"Janssen Biotech, Inc.",57894-0111-01,Carvykti,up to 100 million autologous b-cell maturation antigen (bcma) directed car-positive t cells,1,1,1,1
+Q2056,Ciltacabtagene car-pos t,"Janssen Biotech, Inc.",57894-0111-02,Carvykti,up to 100 million autologous b-cell maturation antigen (bcma) directed car-positive t cells,1,1,1,1
+Q5128,"Inj, cimerli, 0.1 mg","Coherus Biosciences, Inc.",70114-0440-01,Cimerli,0.1 MG,0.05,1,3,3
+Q5128,"Inj, cimerli, 0.1 mg","Coherus Biosciences, Inc.",70114-0441-01,Cimerli,0.1 MG,0.05,1,5,5
+Q9968,Visualization adjunct,AMERICAN REGENT,00517-0374-05,Provayblue,1 MG,10,5,50,250
+Q9968,Visualization adjunct,MYLAN INSTITUTIONAL LLC,67457-0220-05,ISOSULFAN BLUE INJECTION,1 MG,5,6,50,300

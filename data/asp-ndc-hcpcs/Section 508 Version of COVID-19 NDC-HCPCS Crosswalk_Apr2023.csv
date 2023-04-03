@@ -1,0 +1,34 @@
+NDC - HCPCS  Crosswalk for COVID-19,,,,,,,,,
+Effective from 11/09/2020 through the duration of Public Health Emergency,,,,,,,,,
+,,,,,,,,,
+The ASP crosswalks are maintained by the Division of Ambulatory Services to support ASP-based Medicare Part B payments only. The crosswalks are intended to help the public (including entities that submit manufacturer ASP data and providers who bill for drugs) understand which drug products (identified by NDCs) are assigned to which HCPCS billing codes. The crosswalks are not intended to be a comprehensive list of all drugs/NDCs available in the United States. The NDC to HCPCS Crosswalk also includes information on the NDC package size and the number of billable units (as defined by the HCPCS code descriptor). Comments on the file may be sent to sec303aspdata@cms.hhs.gov.,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+HCPCS Code,Short Descriptor,LABELER NAME,NDC,DRUG NAME,HCPCS DOSAGE,PKG SIZE,PKG QTY,BILLUNITS,BILLUNITSPKG
+91300,SARSCOV2 VAC 30MCG/0.3ML IM,Pfizer,59267-1000-02,Pfizer-Biontech Covid-19 Vaccine,30 MCG,1,195,6,1170
+91300,SARSCOV2 VAC 30MCG/0.3ML IM,Pfizer,59267-1000-03,Pfizer-Biontech Covid-19 Vaccine,30 MCG,1,25,6,150
+91301,SARSCOV2 VAC 100MCG/0.5ML IM,Moderna,80777-0273-99,Moderna Covid-19 Vaccine,100 MCG,5,10,11,110
+91301,SARSCOV2 VAC 100MCG/0.5ML IM,Moderna,80777-0273-98,Moderna Covid-19 Vaccine,100 MCG,7.5,10,15,150
+91306,SARSCOV2 VAC 100MCG/0.5ML IM,Moderna,80777-0273-98,Moderna Covid-19 Vaccine,50 MCG,7.5,10,20,200
+91306,SARSCOV2 VAC 100MCG/0.5ML IM,Moderna,80777-0273-99,Moderna Covid-19 Vaccine,50 MCG,5,10,20,200
+91307,SARSCOV2 VAC 10 MCG TRS-SUCR,Pfizer,59267-1055-04,Pfizer-Biontech Covid-19 Vaccine Age 5y to < 12y,10 MCG,2.6,10,10,100
+91308,SARSCOV2 VAC 3 MCG TRS-SUCR,Pfizer,59267-0078-04,Pfizer-Biontech Covid-19 Vaccine Age 6m - 4y,3 MCG,2.6,10,10,100
+91309,"SARS-COV-2 vaccine, mRNA, 50 mcg/0.5 mL dose",Moderna,80777-0275-05,Moderna Covid-19 Vaccine Age 6y to 11y,50 MCG,2.5,10,5,50
+91311,SARS-COV-2 pediatric 25 mcg/0.25 mL dose,Moderna,80777-0279-99,Moderna Covid-19 Vaccine Age 6m - 5 years,25 MCG,1,10,10,100
+0001A,ADM SARSCOV2 30MCG/0.3ML 1ST,Pfizer,N/A,Pfizer-Biontech Covid-19 Vaccine Administration - First Dose,1 EA,,,,
+0002A,ADM SARSCOV2 30MCG/0.3ML 2ND,Pfizer,N/A,Pfizer-Biontech Covid-19 Vaccine Administration - Second Dose,1 EA,,,,
+0003A,ADM SARSCOV2 30MCG/0.3ML 2ND,Pfizer,N/A,Pfizer-Biontech Covid-19 Vaccine Administration - Third Dose,1 EA,,,,
+0004A,ADM SARSCOV2 30MCG/0.3ML 2ND,Pfizer,N/A,Pfizer-Biontech Covid-19 Vaccine Administration - Booster,1 EA,,,,
+0011A,ADM SARSCOV2 100MCG/0.5ML1ST,Moderna,N/A,Moderna Covid-19 Vaccine Administration - First Dose,1 EA,,,,
+0012A,ADM SARSCOV2 100MCG/0.5ML2ND,Moderna,N/A,Moderna Covid-19 Vaccine Administration - Second Dose,1 EA,,,,
+0091A,ADM SARSCOV2 50 MCG/.5 ML1ST,Moderna,N/A,Moderna Covid-19 Vaccine Age 6y to 11y - First Dose,1 EA,,,,
+0092A,ADM SARSCOV2 50 MCG/.5 ML2ND,Moderna,N/A,Moderna Covid-19 Vaccine Age 6y to 11y - Second Dose,1 EA,,,,
+0093A,ADM SARSCOV2 50 MCG/.5 ML3RD,Moderna,N/A,Moderna Covid-19 Vaccine Age 6y to 11y - Third Dose,1 EA,,,,
+0094A,ADM SARSCOV2 50MCG/0.5 MLBST,Moderna,N/A,Moderna Covid-19 Vaccine Age 6y to 11y - Booster Dose,1 EA,,,,
+0111A,ADM SARSCOV2 25MCG/0.25ML1ST,Moderna,N/A,Moderna Covid-19 Pediatric Vaccine Age 6m - 5 years - First Dose,1 EA,,,,
+0112A,ADM SARSCOV2 25MCG/0.25ML2ND,Moderna,N/A,Moderna Covid-19 Pediatric Vaccine Age 6m - 5 years - Second Dose,1 EA,,,,
+0113A,ADM SARSCOV2 25MCG/0.25ML3RD,Moderna,N/A,Moderna Covid-19 Pediatric Vaccine Age 6m - 5 years - Third Dose,1 EA,,,,
+M0239,bamlanivimab-xxxx infusion,Eli Lilly and Company,N/A,Bamlanivimab Infusion,1 EA,,,,
+Q0239,bamlanivimab-xxxx,Eli Lilly and Company,00002-7910-01,Bamlanivimab,700 MG,20,1,1,1

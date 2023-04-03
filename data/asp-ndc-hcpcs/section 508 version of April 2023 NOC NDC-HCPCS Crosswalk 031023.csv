@@ -1,0 +1,341 @@
+April 2023 ASP NOC NDC - HCPCS Crosswalk for Medicare Part B Drugs,,,,,,,,
+"April 1, 2023 through June 30, 2023",,,,,,,,
+,,,,,,,,
+The ASP crosswalks are maintained by the Division of Data Analysis and Market Based Pricing to support ASP-based Medicare Part B payments only. The crosswalks are intended to help the public (including entities that submit manufacturer ASP data and providers who bill for drugs) understand which drug products (identified by NDCs) are assigned to which HCPCS billing codes. The crosswalks are not intended to be a comprehensive list of all drugs/NDCs available in the United States. The NDC to HCPCS Crosswalk also includes information on the NDC package size and the number of billable units (as defined by the HCPCS code descriptor). Comments on the file may be sent to sec303aspdata@cms.hhs.gov.,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Drug Generic Name,LABELER NAME,NDC or ALTERNATE ID,Drug Name,Dosage,PKG SIZE,PKG QTY,BILLUNITS,BILLUNITSPKG
+Alfentanil Hcl,AKORN,17478-0067-02,ALFENTA,500 MCG,2,10,2,20
+Alfentanil Hcl,AKORN,17478-0067-05,Alfenta,500 MCG,5,10,5,50
+Allopurinol Sodium,HIKMA PHARMACEUTICALS USA INC.,00143-9533-01,Allopurinol Sodium,500 MG,1,1,1,1
+Allopurinol Sodium,"FRESENIUS KABI USA, LLC",65219-0380-30,Allopurinol,500 MG,1,1,1,1
+Allopurinol Sodium,MYLAN INSTITUTIONAL LLC,67457-0187-50,Aloprim,500 MG,1,1,1,1
+Allopurinol Sodium,MYLAN INSTITUTIONAL LLC,67457-0978-50,Aloprim,500 MG,1,1,1,1
+Aminocaproic acid,PFIZER INC.,00409-4346-73,AMINOCAPROIC ACID INJ,250 MG,20,25,20,500
+Aminocaproic acid,AMERICAN REGENT,00517-9191-25,Aminocaproic Acid,250 MG,20,25,20,500
+Aminocaproic acid,CIVICA INC,72572-0015-25,Aminocaproic Acid,250 MG,20,25,20,500
+Aztreonam,BRISTOL-MYERS SQUIBB COMPANY,00003-2560-16,AZACTAM,500 MG,1,10,2,20
+Aztreonam,BRISTOL-MYERS SQUIBB COMPANY,00003-2570-16,AZACTAM,500 MG,1,10,4,40
+Aztreonam,FRESENIUS KABI,63323-0401-20,Aztreonam,500 MG,1,10,2,20
+Aztreonam,FRESENIUS KABI,63323-0401-24,Aztreonam,500 MG,1,10,2,20
+Aztreonam,FRESENIUS KABI,63323-0401-26,Aztreonam,500 MG,1,10,2,20
+Aztreonam,FRESENIUS KABI,63323-0402-20,Aztreonam,500 MG,1,10,4,40
+Aztreonam,FRESENIUS KABI,63323-0402-24,Aztreonam,500 MG,1,10,4,40
+Aztreonam,FRESENIUS KABI,63323-0402-30,Aztreonam,500 MG,1,10,4,40
+Bumetanide,PFIZER INC.,00409-1412-04,Bumetanide,0.25 MG,4,10,4,40
+Bumetanide,PFIZER INC.,00409-1412-10,Bumetanide,0.25 MG,10,10,10,100
+Bumetanide,HIKMA PHARMACEUTICALS USA INC.,00641-6007-10,Bumetanide,0.25 MG,10,10,10,100
+Bumetanide,HIKMA PHARMACEUTICALS USA INC.,00641-6008-10,Bumetanide,0.25 MG,4,10,4,40
+Bumetanide,HIKMA PHARMACEUTICALS USA INC.,00641-6161-10,Bumetanide,0.25 MG,4,10,4,40
+Bumetanide,HIKMA PHARMACEUTICALS USA INC.,00641-6162-10,Bumetanide,0.25 MG,10,10,10,100
+Bumetanide,ATHENEX PHARMACEUTICAL,70860-0405-04,Bumetanide,0.25 MG,4,10,4,40
+Bumetanide,ATHENEX PHARMACEUTICAL,70860-0406-10,Bumetanide,0.25 MG,10,10,10,100
+Bumetanide,"CIVICA, INC.",72572-0040-10,Bumetanide,0.25 MG,4,10,4,40
+Bumetanide,"CIVICA, INC.",72572-0041-10,Bumetanide,0.25 MG,10,10,10,100
+Bupivacaine,Hikma Pharmaceuticals Usa,00143-9328-10,Bupivacaine HCl,1 ML,50,10,50,500
+Bupivacaine,HIKMA PHARMACEUTICALS USA INC.,00143-9330-10,BUPIVACAINE HCL,1 ML,10,10,10,100
+Bupivacaine,HIKMA PHARMACEUTICALS USA INC.,00143-9331-10,BUPIVACAINE HCL,1 ML,10,10,10,100
+Bupivacaine,"AUROMEDICS PHARMA, LLC",00143-9332-10,BUPIVACAINE HCL,1 ML,10,10,10,100
+Bupivacaine,HIKMA PHARMACEUTICALS USA INC.,00143-9333-10,Bupivacaine HCl,1 ML,30,10,30,300
+Bupivacaine,HIKMA PHARMACEUTICALS USA INC.,00143-9334-10,Bupivacaine HCl,1 ML,30,10,30,300
+Bupivacaine,HIKMA PHARMACEUTICALS USA INC.,00143-9335-10,Bupivacaine HCl,1 ML,30,10,30,300
+Bupivacaine,PFIZER INC.,00409-1159-01,Bupivacaine Hcl,1 ML,10,25,10,250
+Bupivacaine,PFIZER INC.,00409-1159-02,BUPIVICAINE HCL,1 ML,30,25,30,750
+Bupivacaine,PFIZER INC.,00409-1159-10,Bupivacaine HCl,1 ML,30,25,30,750
+Bupivacaine,PFIZER INC.,00409-1160-01,Bupivacaine Hcl,1 ML,50,25,50,1250
+Bupivacaine,PFIZER INC.,00409-1162-01,Bupivacaine Hcl,1 ML,10,25,10,250
+Bupivacaine,PFIZER INC.,00409-1162-10,Bupivacaine Hcl,1 ML,30,25,30,750
+Bupivacaine,PFIZER INC.,00409-1163-01,Bupivacaine Hcl,1 ML,50,25,50,1250
+Bupivacaine,PFIZER INC.,00409-1165-02,Bupivacaine Hcl,1 ML,30,25,30,750
+Bupivacaine,PFIZER INC.,00409-1559-10,MARCAINE,1 ML,10,10,10,100
+Bupivacaine,PFIZER INC.,00409-1559-30,MARCAINE,1 ML,30,10,30,300
+Bupivacaine,PFIZER INC.,00409-1560-10,MARCAINE,1 ML,10,10,10,100
+Bupivacaine,PFIZER INC.,00409-1560-29,MARCAINE,1 ML,30,10,30,300
+Bupivacaine,PFIZER INC.,00409-1582-10,Bupivacaine HCl,1 ML,10,10,5,50
+Bupivacaine,PFIZER INC.,00409-1582-29,MARCAINE WITHOUT EPI,1 ML,30,10,30,300
+Bupivacaine,"HOSPIRA, INC.",00409-1761-10,MARCAINE SPINAL,1 ML,2,10,15,150
+Bupivacaine,PFIZER INC.,00409-1761-62,MARCAINE SPINAL,1 ML,2,800,2,1600
+Bupivacaine,BAXTER,36000-0092-10,Bupivacaine Hcl,1 ML,2,10,2,20
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0167-10,Bupivacaine HCl,1 ML,10,25,10,250
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0168-30,Bupivacaine HCl,1 ML,30,25,30,750
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0169-10,Bupivacaine HCl,1 ML,10,25,10,250
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0170-30,Bupivacaine HCl,1 ML,30,25,30,750
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0171-10,Bupivacaine HCl,1 ML,10,25,10,250
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0172-30,Bupivacaine HCl,1 ML,30,25,30,750
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0249-50,Bupivacaine Hcl,1 ML,50,25,50,1250
+Bupivacaine,AUROMEDICS PHARMA LLC,55150-0250-50,Bupivacaine Hcl,1 ML,50,25,50,1250
+Bupivacaine,FRESENIUS KABI,63323-0464-17,SENSORCAINE-MPF,1 ML,10,25,10,250
+Bupivacaine,FRESENIUS KABI,63323-0464-37,SENSORCAINE-MPF,1 ML,30,25,30,750
+Bupivacaine,FRESENIUS KABI,63323-0465-57,Sensorcaine,1 ML,50,25,50,1250
+Bupivacaine,FRESENIUS KABI,63323-0466-17,Sensorcaine-MPF,1 ML,10,25,10,250
+Bupivacaine,FRESENIUS KABI,63323-0466-37,SENSORCAINE-MPF,1 ML,30,25,30,750
+Bupivacaine,FRESENIUS KABI,63323-0467-57,Sensorcaine,1 ML,50,25,50,1250
+Bupivacaine,FRESENIUS KABI,63323-0472-17,Sensorcaine,1 ML,10,25,10,250
+Bupivacaine,FRESENIUS KABI,63323-0472-37,SENSORCAINE-MPF,1 ML,30,25,30,750
+Carmustine (Accord),ACCORD HEALTHCARE INC.,16729-0545-63,Carmustine,100 MG,1,1,0.5,0.5
+Carmustine (Accord),ACCORD HEALTHCARE,16729-0548-63,CARMUSTINE,100 MG,1,1,3,3
+Clindamycin Phosphate,PFIZER INC.,00009-0302-25,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,PFIZER INC.,00009-0602-25,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,PFIZER INC.,00009-0728-09,Cleocin,150 MG,60,5,1,5
+Clindamycin Phosphate,PFIZER INC.,00009-0775-26,Cleocin,150 MG,4,25,4,100
+Clindamycin Phosphate,PFIZER INC.,00009-0870-26,Cleocin,150 MG,2,25,2,50
+Clindamycin Phosphate,PFIZER INC.,00009-0901-25,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,PFIZER INC.,00009-0902-18,Cleocin,150 MG,6,25,6,150
+Clindamycin Phosphate,PFIZER INC.,00009-3051-02,Cleocin,150 MG,2,25,2,50
+Clindamycin Phosphate,PFIZER INC.,00009-4073-04,Cleocin,150 MG,4,25,4,100
+Clindamycin Phosphate,PFIZER INC.,00009-5095-06,Cleocin,150 MG,6,25,6,150
+Clindamycin Phosphate,BAXTER,00338-3410-24,Clindamycin Phosphate,150 MG,50,24,2,48
+Clindamycin Phosphate,BAXTER,00338-3612-24,Clindamycin Phosphate,150 MG,50,24,4,96
+Clindamycin Phosphate,BAXTER,00338-3616-24,Clindamycin in D5W,150 MG,50,24,4,96
+Clindamycin Phosphate,BAXTER,00338-3814-24,Clindamycin Phosphate,150 MG,50,24,6,144
+Clindamycin Phosphate,BAXTER,00338-4114-24,Clindamycin in D5W,150 MG,50,24,6,144
+Clindamycin Phosphate,BAXTER,00338-9545-24,Clindamycin in D5W,150 MG,50,24,2,48
+Clindamycin Phosphate,BAXTER,00338-9549-24,Clindamycin in D5W,150 MG,50,24,4,96
+Clindamycin Phosphate,BAXTER,00338-9553-24,Clindamycin in D5W,150 MG,50,24,6,144
+Clindamycin Phosphate,SANDOZ,00781-3288-09,Clindamycin Phosphate,150 MG,50,24,2,48
+Clindamycin Phosphate,SANDOZ,00781-3289-09,Clindamycin Phosphate,150 MG,50,24,4,96
+Clindamycin Phosphate,SANDOZ,00781-3290-09,Clindamycin Phosphate,150 MG,50,24,6,144
+Clindamycin Phosphate,SANDOZ,00781-9220-09,Clindamycin in D5W,150 MG,50,24,2,48
+Clindamycin Phosphate,SANDOZ,00781-9221-09,Clindamycin in D5W,150 MG,50,24,4,96
+Clindamycin Phosphate,SANDOZ,00781-9222-09,Clindamycin in D5W,150 MG,50,24,6,144
+Clindamycin Phosphate,SAGENT PHARMACEUTICALS INC,25021-0115-02,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,SAGENT PHARMACEUTICALS INC,25021-0115-04,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,SAGENT PHARMACEUTICALS INC,25021-0115-06,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,SAGENT PHARMACEUTICALS INC,25021-0115-51,Clindamycin Phosphate,150 MG,60,1,60,60
+Clindamycin Phosphate,ALVOGEN,47781-0459-68,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,ALVOGEN,47781-0460-68,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,ALVOGEN,47781-0461-68,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,ALVOGEN,47781-0465-70,Clindamycin Phosphate,150 MG,60,1,60,60
+Clindamycin Phosphate,ALVOGEN,47781-0619-69,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,ALVOGEN,47781-0620-69,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,ALVOGEN,47781-0621-69,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,MYLAN INSTITUTIONAL LLC,67457-0814-02,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,MYLAN INSTITUTIONAL LLC,67457-0815-04,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,MYLAN INSTITUTIONAL LLC,67457-0816-06,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,Civica,72572-0074-24,Clindamycin in D5W,150 MG,50,24,4,96
+Clindamycin Phosphate,Civica,72572-0076-24,Clindamycin in D5W,150 MG,50,24,6,144
+Clindamycin Phosphate,ALMAJECT,72611-0634-25,Clindamycin Phosphate,150 MG,2,25,2,50
+Clindamycin Phosphate,ALMAJECT,72611-0639-25,Clindamycin Phosphate,150 MG,4,25,4,100
+Clindamycin Phosphate,ALMAJECT,72611-0642-25,Clindamycin Phosphate,150 MG,6,25,6,150
+Clindamycin Phosphate,ALMAJECT,72611-0645-55,Clindamycin Phosphate,150 MG,60,5,60,300
+"Coagulation Factor IX, Recombinant (Ixinity)","MEDEXUS PHARMA, INC.",59137-0282-05,Ixinity,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","MEDEXUS PHARMA, INC.",59137-0283-05,Ixinity,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","MEDEXUS PHARMA, INC.",59137-0284-05,Ixinity,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","MEDEXUS PHARMA, INC.",59137-0289-05,Ixinity,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","APTEVO BIOTHERAPEUTICS, LLC.",70504-0282-05,IXINITY,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","APTEVO BIOTHERAPEUTICS, LLC.",70504-0283-05,IXINITY,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","APTEVO BIOTHERAPEUTICS, LLC.",70504-0284-05,IXINITY,1 IU,1,1,1,1
+"Coagulation Factor IX, Recombinant (Ixinity)","APTEVO BIOTHERAPEUTICS, LLC.",70504-0289-05,IXINITY,1 IU,1,1,1,1
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-6013-10,Diltiazem Hcl,5 MG,5,10,5,50
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-6014-10,Diltiazem Hcl,5 MG,10,10,10,100
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-6015-10,Diltiazem Hcl,5 MG,25,10,25,250
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-9217-10,Diltiazem Hcl,5 MG,5,10,5,50
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-9218-10,Diltiazem Hcl,5 MG,10,10,10,100
+Diltiazem Hydrochloride,HIKMA PHARMACEUTICALS USA INC.,00641-9219-10,Diltiazem Hcl,5 MG,25,10,25,250
+Diltiazem Hydrochloride,AKORN,17478-0937-05,Diltiazem Hcl,5 MG,5,10,5,50
+Diltiazem Hydrochloride,AKORN,17478-0937-10,Diltiazem Hcl,5 MG,10,10,10,100
+Diltiazem Hydrochloride,AKORN,17478-0937-25,Diltiazem Hcl,5 MG,25,10,25,25
+Diltiazem Hydrochloride,AKORN,17478-0937-26,Diltiazem Hcl,5 MG,25,10,25,250
+Diltiazem Hydrochloride,ATHENEX,70860-0301-05,Diltiazem HCl,5 MG,5,10,5,50
+Diltiazem Hydrochloride,ATHENEX,70860-0301-10,Diltiazem HCl,5 MG,10,10,10,100
+Diltiazem Hydrochloride,ATHENEX,70860-0301-25,Diltiazem HCl,5 MG,25,10,25,250
+Doxycycline Hyclate,HIKMA PHARMACEUTICALS USA INC.,00143-9381-10,Doxycycline Hyclate,100 MG,1,10,1,10
+Doxycycline Hyclate,FRESENIUS KABI,63323-0130-11,Doxycycline Hyclate,100 MG,1,10,1,10
+Doxycycline Hyclate,FRESENIUS KABI,63323-0130-13,Doxycycline Hyclate,100 MG,1,10,1,10
+Doxycycline Hyclate,FRESENIUS KABI,63323-0130-17,Doxycycline Hyclate,100 MG,1,10,1,10
+Doxycycline Hyclate,MYLAN INSTITUTIONAL LLC,67457-0437-10,Doxycycline Hyclate,100 MG,1,10,1,10
+Doxycycline Hyclate,ZYDUS PHARMACEUTICALS,68382-0910-10,Doxycycline Hyclate,100 MG,1,10,1,10
+Esmolol Hydrochloride,BAXTER,10019-0055-61,Brevibloc In Nacl,10 MG,250,1,250,250
+Esmolol Hydrochloride,BAXTER,10019-0075-87,Brevibloc,10 MG,100,1,200,200
+Esmolol Hydrochloride,BAXTER,10019-0115-01,Brevibloc,10 MG,10,25,10,250
+Esmolol Hydrochloride,BAXTER,10019-0120-01,Esmolol HCl,10 MG,10,25,10,250
+Esmolol Hydrochloride,BAXTER,10019-0666-10,BREVIBLOC,10 MG,100,10,200,2000
+Esmolol Hydrochloride,BAXTER,10019-0668-10,BREVIBLOC,10 MG,100,10,200,2000
+Esmolol Hydrochloride,BAXTER,10019-0670-10,BREVIBLOC,10 MG,250,10,250,2500
+Esmolol Hydrochloride,BAXTER,10019-0672-10,BREVIBLOC,10 MG,250,10,250,2500
+Esmolol Hydrochloride,SAGENT PHARMACEUTICALS INC,25021-0308-84,Esmolol HCl,10 MG,250,10,250,2500
+Esmolol Hydrochloride,SAGENT PHARMACEUTICALS INC,25021-0309-82,Esmolol HCl,10 MG,100,10,200,2000
+Esmolol Hydrochloride,SAGENT PHARMACEUTICALS INC,25021-0314-10,Esmolol HCl,10 MG,10,10,10,100
+Esmolol Hydrochloride,WG CRITICAL CARE,44567-0811-10,Esmolol HCl,10 MG,250,10,250,2500
+Esmolol Hydrochloride,WG CRITICAL CARE,44567-0812-10,Esmolol Hcl,10 MG,100,10,200,2000
+Esmolol Hydrochloride,AUROMEDICS PHARMA LLC,55150-0194-10,Esmolol Hcl,10 MG,10,25,10,250
+Esmolol Hydrochloride,AUROMEDICS PHARMA,55150-0420-10,Esmolol HCl,10 MG,250,10,250,2500
+Esmolol Hydrochloride,AUROMEDICS PHARMA,55150-0421-10,Esmolol HCl,10 MG,100,10,200,2000
+Esmolol Hydrochloride,FRESENIUS KABI,63323-0652-10,Esmolol Hcl,10 MG,10,25,10,250
+Esmolol Hydrochloride,MYLAN INSTITUTIONAL LLC,67457-0182-10,Esmolol Hcl,10 MG,10,10,10,100
+Esmolol Hydrochloride,MYLAN INSTITUTIONAL LLC,67457-0657-25,Esmolol HCl,10 MG,250,10,250,2500
+Esmolol Hydrochloride,MYLAN INSTITUTIONAL LLC,67457-0658-10,Esmolol Hcl,10 MG,100,10,200,2000
+Famotidine,BAXTER,00338-5197-41,Famotidine Premixed,10 MG,50,12,2,24
+Famotidine,HIKMA PHARMACEUTICALS USA INC.,00641-6021-10,Famotidine,10 MG,20,10,20,200
+Famotidine,HIKMA PHARMACEUTICALS USA INC.,00641-6022-25,Famotidine,10 MG,2,25,2,50
+Famotidine,HIKMA PHARMACEUTICALS USA INC.,00641-6023-25,Famotidine,10 MG,4,25,4,100
+Famotidine,FRESENIUS KABI,63323-0738-09,Famotidine,10 MG,4,10,4,40
+Famotidine,FRESENIUS KABI,63323-0738-20,Famotidine,10 MG,20,10,20,200
+Famotidine,FRESENIUS KABI,63323-0739-12,Famotidine,10 MG,2,25,2,50
+Famotidine,FRESENIUS KABI,63323-0739-16,Famotidine,10 MG,2,25,2,50
+Famotidine,MYLAN INSTITUTIONAL LLC,67457-0448-43,Famotidine,10 MG,4,10,4,40
+Famotidine,MYLAN INSTITUTIONAL LLC,67457-0457-20,Famotidine,10 MG,20,10,20,200
+Famotidine,ATHENEX,70860-0751-02,Famotidine,10 MG,2,25,2,50
+Famotidine,ATHENEX,70860-0753-20,Famotidine,10 MG,20,10,20,200
+Flumazenil,HIKMA PHARMACEUTICALS USA INC.,00143-9683-10,Flumazenil,0.1 MG,10,10,10,100
+Flumazenil,HIKMA PHARMACEUTICALS USA INC.,00143-9684-10,Flumazenil,0.1 MG,5,10,5,50
+Flumazenil,HIKMA PHARMACEUTICALS USA INC.,00143-9783-10,Flumazenil,0.1 MG,10,10,10,100
+Flumazenil,HIKMA PHARMACEUTICALS USA INC.,00143-9784-10,Flumazenil,0.1 MG,5,10,5,50
+Flumazenil,BAXTER,36000-0148-10,Flumazenil,0.1 MG,5,10,5,50
+Flumazenil,BAXTER,36000-0149-10,Flumazenil,0.1 MG,10,10,10,100
+Flumazenil,FRESENIUS KABI,63323-0424-05,Flumazenil,0.1 MG,5,10,5,50
+Flumazenil,FRESENIUS KABI,63323-0424-10,Flumazenil,0.1 MG,10,1,10,10
+Folic Acid,X-GEN PHARMACEUTICALS INC,39822-1100-01,Folic Acid,5 MG,10,1,10,10
+Folic Acid,FRESENIUS KABI,63323-0184-10,Folic Acid,5 MG,10,1,10,10
+Furosemide (Phlow Corporation),PHLOW CORPORATION,81565-0201-02,Furosemide,20 MG,2,25,1,25
+Glucarpidase,BTG INTERNATIONAL INC.,50633-0210-11,Voraxaze,10 UNITS,1,1,100,100
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9584-10,Glycopyrrolate INJECTION,0.2 MG,20,10,20,200
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9585-25,Glycopyrrolate INJECTION,0.2 MG,5,25,5,125
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9586-25,Glycopyrrolate INJECTION,0.2 MG,2,25,2,50
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9587-25,Glycopyrrolate INJECTION,0.2 MG,1,25,1,25
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9679-10,Glycopyrrolate INJECTION,0.2 MG,20,10,20,200
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9680-25,Glycopyrrolate INJECTION,0.2 MG,5,25,5,125
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9681-25,Glycopyrrolate INJECTION,0.2 MG,2,25,2,50
+Glycopyrrolate injection,HIKMA PHARMACEUTICALS USA INC.,00143-9682-25,Glycopyrrolate INJECTION,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AMERICAN REGENT,00517-4601-25,Glycopyrrolate,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AMERICAN REGENT,00517-4602-25,Glycopyrrolate,0.2 MG,2,25,2,50
+Glycopyrrolate injection,AMERICAN REGENT,00517-4605-25,Glycopyrrolate,0.2 MG,5,25,5,125
+Glycopyrrolate injection,AMERICAN REGENT,00517-4620-25,Glycopyrrolate,0.2 MG,20,25,20,500
+Glycopyrrolate injection,SANDOZ,00781-3825-96,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,SANDOZ,00781-3827-96,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,SANDOZ,00781-3829-96,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,SANDOZ,00781-3831-95,Glycopyrrolate Injection,0.2 MG,20,10,20,200
+Glycopyrrolate injection,A-S MEDICATION SOLUTIONS,50090-5226-00,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AUROMEDICS PHARMA LLC,55150-0292-01,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AUROMEDICS PHARMA LLC,55150-0293-02,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,AUROMEDICS PHARMA LLC,55150-0294-05,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,AUROMEDICS PHARMA LLC,55150-0295-20,Glycopyrrolate Injection,0.2 MG,20,25,20,500
+Glycopyrrolate injection,APOTEX CORP.,60505-6179-05,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,APOTEX CORP.,60505-6180-05,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,APOTEX CORP.,60505-6181-05,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,APOTEX CORP.,60505-6182-04,Glycopyrrolate Injection,0.2 MG,20,10,20,200
+Glycopyrrolate injection,FRESENIUS KABI,63323-0578-01,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,FRESENIUS KABI,63323-0578-02,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,FRESENIUS KABI,63323-0578-05,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,FRESENIUS KABI,63323-0578-11,Glycopyrrolate (injection),0.2 MG,1,25,1,25
+Glycopyrrolate injection,FRESENIUS KABI,63323-0578-12,Glycopyrrolate (injection),0.2 MG,2,25,2,50
+Glycopyrrolate injection,PIRAMAL CRITICAL CARE,66794-0202-42,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,PIRAMAL CRITICAL CARE,66794-0203-42,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,PIRAMAL CRITICAL CARE,66794-0204-42,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,PIRAMAL CRITICAL CARE,66794-0205-41,Glycopyrrolate Injection,0.2 MG,20,10,20,200
+Glycopyrrolate injection,AMERICAN HEALTH PACKAGING,68001-0351-60,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AMERICAN HEALTH PACKAGING,68001-0352-71,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,AMERICAN HEALTH PACKAGING,68001-0353-72,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,AMNEAL BIOSCIENCES,70121-1394-05,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,AMNEAL BIOSCIENCES,70121-1395-05,Glycopyrrolate Injection,0.2 MG,2,25,2,50
+Glycopyrrolate injection,AMNEAL BIOSCIENCES,70121-1396-05,Glycopyrrolate Injection,0.2 MG,5,25,5,125
+Glycopyrrolate injection,AMNEAL BIOSCIENCES,70121-1397-07,Glycopyrrolate Injection,0.2 MG,20,10,20,200
+Glycopyrrolate injection,"BE PHARMACEUTICALS, INC.",71839-0123-25,Glycopyrrolate INJECTION,0.2 MG,1,25,1,25
+Glycopyrrolate injection,"BE PHARMACEUTICALS, INC.",71839-0124-25,Glycopyrrolate INJECTION,0.2 MG,2,25,2,50
+Glycopyrrolate injection,"BE PHARMACEUTICALS, INC.",71839-0125-25,Glycopyrrolate INJECTION,0.2 MG,5,25,5,125
+Glycopyrrolate injection,CIVICA INC,72572-0225-25,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,CIVICA INC,72572-0226-25,Glycopyrrolate Injection,0.2 MG,1,25,1,25
+Glycopyrrolate injection,FRESENIUS KABI,76045-0203-10,Glycopyrrolate Injection,0.2 MG,1,24,1,24
+Glycopyrrolate injection,FRESENIUS KABI,76045-0203-20,Glycopyrrolate Injection,0.2 MG,2,24,2,48
+Glycopyrrolate injection (Fresenius Kabi),"Fresenius Kabi USA, LLC",76045-0023-30,Glycopyrrolate,0.2 MG,3,10,3,30
+Immune Globulin (Panzyga),PFIZER INC.,00069-1109-02,PANZYGA,500 MG,25,1,5,5
+Immune Globulin (Panzyga),PFIZER INC.,00069-1224-02,PANZYGA,500 MG,50,1,10,10
+Immune Globulin (Panzyga),PFIZER INC.,00069-1312-02,PANZYGA,500 MG,100,1,20,20
+Immune Globulin (Panzyga),PFIZER INC.,00069-1415-02,PANZYGA,500 MG,200,1,40,40
+Immune Globulin (Panzyga),PFIZER INC.,00069-1558-02,PANZYGA,500 MG,300,1,60,60
+Immune Globulin (Panzyga),PFIZER INC.,68982-0820-02,PANZYGA,500 MG,25,1,5,5
+Immune Globulin (Panzyga),PFIZER INC.,68982-0820-04,PANZYGA,500 MG,100,1,20,20
+Immune Globulin (Panzyga),PFIZER INC.,68982-0820-05,PANZYGA,500 MG,200,1,40,40
+Immune Globulin (Panzyga),PFIZER INC.,68982-0820-06,PANZYGA,500 MG,300,1,60,60
+Immune Globulin (Panzyga),OCTAPHARMA,68982-0822-02,PANZYGA,500 MG,25,1,5,5
+Immune Globulin (Panzyga),OCTAPHARMA,68982-0822-03,PANZYGA,500 MG,50,1,10,10
+Immune Globulin (Panzyga),OCTAPHARMA,68982-0822-04,PANZYGA,500 MG,100,1,20,20
+Immune Globulin (Panzyga),OCTAPHARMA,68982-0822-05,PANZYGA,500 MG,200,1,40,40
+Immune Globulin (Panzyga),OCTAPHARMA,68982-0822-06,PANZYGA,500 MG,300,1,60,60
+"Insulin aspart (Fiasp) administration through dme (i.e., insulin pump)",NOVO NORDISK INC,00169-3201-11,Fiasp,50 UNITS,10,1,20,20
+"Insulin aspart (Fiasp) administration through dme (i.e., insulin pump)",NOVO NORDISK INC,00169-3204-15,Fiasp FlexTouch,50 UNITS,3,5,6,30
+"Insulin aspart (Fiasp) administration through dme (i.e., insulin pump)",NOVO NORDISK INC,00169-3205-15,Fiasp Penfill,50 UNITS,3,5,6,30
+"Insulin lispro-aabc (Lyumjev) administration through dme (i.e., insulin pump)",ELI LILLY AND COMPANY,00002-7728-01,Lyumjev U-100,50 UNITS,10,1,20,20
+"Insulin lispro-aabc (Lyumjev) administration through dme (i.e., insulin pump)",ELI LILLY AND COMPANY,00002-8207-05,Lyumjev Kwikpen U-100,50 UNITS,3,5,6,30
+"Insulin lispro-aabc (Lyumjev) administration through dme (i.e., insulin pump)",ELI LILLY AND COMPANY,00002-8228-27,Lyumjev Kwikpen U-200,50 UNITS,3,2,12,24
+"Insulin lispro-aabc (Lyumjev) administration through dme (i.e., insulin pump)","Lilly, Eli & Company",00002-8235-05,Lyumjev Tempo Pen,50 UNITS,3,5,6,30
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9320-01,Labetalol HCl,5 MG,20,1,20,20
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9363-10,Labetalol HCl,5 MG,100,10,20,200
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9364-10,Labetalol HCl,5 MG,200,10,40,400
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9365-10,Labetalol HCl,5 MG,300,10,60,600
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9366-10,Labetalol HCl,5 MG,200,10,40,400
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9622-01,Labetalol Hcl,5 MG,20,1,20,20
+Labetalol Hcl,HIKMA PHARMACEUTICALS USA INC.,00143-9623-01,Labetalol Hcl,5 MG,40,1,40,40
+Labetalol Hcl,AKORN,17478-0420-20,Labetalol Hcl,5 MG,20,1,20,20
+Labetalol Hcl,AKORN,17478-0420-40,Labetalol Hcl,5 MG,40,1,40,40
+Labetalol Hcl,"SAGENT PHARMACEUTICALS, INC.",25021-0317-20,Labetalol HCl,5 MG,20,1,20,20
+Labetalol Hcl,"SAGENT PHARMACEUTICALS, INC.",25021-0317-40,Labetalol HCl,5 MG,40,1,40,40
+Labetalol Hcl,BAXTER,36000-0320-10,Labetalol Hcl,5 MG,4,1,4,40
+Labetalol Hcl,BAXTER,36000-0322-02,Labetalol Hcl,5 MG,20,1,20,20
+Labetalol Hcl,BAXTER,36000-0324-02,Labetalol Hcl,5 MG,40,1,40,40
+Labetalol Hcl,ALVOGEN,47781-0586-29,Labetalol Hcl,5 MG,20,1,20,20
+Labetalol Hcl,ALVOGEN,47781-0586-56,Labetalol Hcl,5 MG,40,1,40,40
+Labetalol Hcl,FOSUN PHARMA,72266-0102-01,Labetalol Hcl,5 MG,20,1,20,20
+Labetalol Hcl,FOSUN PHARMA,72266-0103-01,Labetalol Hcl,5 MG,40,1,40,40
+Labetalol Hcl,FOSUN PHARMA,72266-0103-41,Labetalol HCl,5 MG,40,1,40,40
+Labetalol Hcl,CIVICA INC,72572-0350-01,Labetalol HCl,5 MG,20,1,20,20
+Metoprolol Tartrate,HIKMA PHARMACEUTICALS USA INC.,00143-9660-10,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,HIKMA PHARMACEUTICALS USA INC.,00143-9873-25,METOPROLOL INJ,1 MG,5,25,5,125
+Metoprolol Tartrate,PFIZER INC.,00409-1778-05,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,"HOSPIRA, INC.",00409-2016-10,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,BAXTER,36000-0033-10,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,ALVOGEN,47781-0587-17,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,FRESENIUS KABI,63323-0660-05,METOPROLOL TARTRATE,1 MG,5,10,5,50
+Metoprolol Tartrate,FOSUN PHARMA USA,72266-0122-05,Metoprolol Tartrate,1 MG,5,5,5,25
+Metoprolol Tartrate,FOSUN PHARMA,72266-0122-25,Metoprolol Tartrate,1 MG,5,25,5,125
+Metoprolol Tartrate,CIVICA INC,72572-0420-10,Metoprolol Tartrate,1 MG,5,10,5,50
+Metoprolol Tartrate,ALMAJECT,72611-0740-10,Metoprolol Tartrate,1 MG,5,10,5,50
+Metronidazole inj,B. BRAUN MEDICAL INC.,00264-5535-32,Metronidazole In Nacl,500 MG,100,24,1,24
+Metronidazole inj,BAXTER,00338-1055-48,Metronidazole In Nacl,500 MG,100,24,1,24
+Metronidazole inj,BAXTER,00338-9541-24,METRONIDAZOLE,500 MG,100,24,1,24
+Metronidazole inj,"Hospira, Inc.",00409-0152-24,Metronidazole In NaCl,500 MG,100,24,1,24
+Metronidazole inj,PFIZER INC.,00409-7811-24,METRONIDAZL 500MG,500 MG,100,24,1,24
+Metronidazole inj,PFIZER INC.,00409-7811-37,METRONIDAZOLE 500 MG INJ USP LIFECARE 100ML FILL,500 MG,100,80,1,80
+Metronidazole inj,SAGENT PHARMACEUTICALS INC,25021-0131-82,Metronidazole,500 MG,100,24,1,24
+Nitroglycerin,BAXTER,00338-1047-02,Nitroglycerin In D5W,5 MG,250,12,5,60
+Nitroglycerin,BAXTER,00338-1049-02,Nitroglycerin In D5W,5 MG,250,12,10,120
+Nitroglycerin,BAXTER,00338-1051-02,Nitroglycerin In D5W,5 MG,250,12,20,240
+Nitroglycerin,AMERICAN REGENT,00517-4810-25,Nitroglycerin,5 MG,10,25,10,250
+Olanzapine short acting intramuscular injection,AMERICAN REGENT,00517-0955-01,Olanzapine (Immediate Release),0.5 MG,1,1,20,20
+Olanzapine short acting intramuscular injection,SANDOZ,00781-3159-72,Olanzapine (Immediate Release),0.5 MG,1,1,20,20
+Olanzapine short acting intramuscular injection,SANDOZ,00781-9105-72,Olanzapine (Immediate Release),0.5 MG,1,1,20,20
+Olanzapine short acting intramuscular injection,AUROMEDICS PHARMA LLC,55150-0308-01,Olanzapine (Immediate Release),0.5 MG,1,1,20,20
+Paliperidone Palmitate (Invega Trinza),"JANSSEN PHARMACEUTICALS, INC.",50458-0606-01,INVEGA TRINZA,1 MG,0.875,1,273,273
+Paliperidone Palmitate (Invega Trinza),"JANSSEN PHARMACEUTICALS, INC.",50458-0607-01,INVEGA TRINZA,1 MG,1.315,1,410,410
+Paliperidone Palmitate (Invega Trinza),"JANSSEN PHARMACEUTICALS, INC.",50458-0608-01,INVEGA TRINZA,1 MG,1.75,1,546,546
+Paliperidone Palmitate (Invega Trinza),"JANSSEN PHARMACEUTICALS, INC.",50458-0609-01,INVEGA TRINZA,1 MG,2.625,1,819,819
+Rifampin,FRESENIUS KABI,63323-0351-20,Rifampin,600 MG,1,1,1,1
+Rifampin,MYLAN INSTITUTIONAL LLC,67457-0445-60,Rifampin,600 MG,1,1,1,1
+"Sodium Chloride, Hypertonic (3% - 5% infusion)",B. BRAUN MEDICAL INC.,00264-7805-10,Sodium Chloride,250 CC,500,24,2,48
+"Sodium Chloride, Hypertonic (3% - 5% infusion)",B. BRAUN MEDICAL INC.,00264-7806-10,Sodium Chloride,250 CC,500,24,2,48
+"Sodium Chloride, Hypertonic (3% - 5% infusion)",BAXTER,00338-0054-03,Sodium Chloride,250 CC,500,1,2,2
+"Sodium Chloride, Hypertonic (3% - 5% infusion)",BAXTER,00338-0056-03,Sodium Chloride,250 CC,500,1,2,2
+Sulfamethoxazole-Trimethoprim,"SICOR PHARMACEUTICALS, INC.",00703-9503-03,Sulfamethoxazole-Trimethoprim,400-80 MG,50,10,10,100
+Sulfamethoxazole-Trimethoprim,"SICOR PHARMACEUTICALS, INC.",00703-9514-03,Sulfamethoxazole-Trimethoprim,400-80 MG,100,10,20,200
+Sulfamethoxazole-Trimethoprim,"SICOR PHARMACEUTICALS, INC.",00703-9514-93,Sulfamethoxazole-Trimethoprim,400-80 MG,10,10,2,20
+Sulfamethoxazole-Trimethoprim,"SICOR PHARMACEUTICALS, INC.",00703-9526-01,Sulfamethoxazole-Trimethoprim,400-80 MG,30,1,6,6
+Sulfamethoxazole-Trimethoprim,MYLAN INSTITUTIONAL LLC,67457-0778-05,Sulfamethoxazole-Trimethoprim,400-80 MG,5,10,1,10
+Sulfamethoxazole-Trimethoprim,MYLAN INSTITUTIONAL LLC,67457-0779-30,Sulfamethoxazole-Trimethoprim,400-80 MG,30,1,6,6
+Sulfamethoxazole-Trimethoprim,MYLAN INSTITUTIONAL LLC,67457-0921-05,Sulfamethoxazole-Trimethoprim,400-80 MG,5,10,1,10
+Sulfamethoxazole-Trimethoprim,MYLAN INSTITUTIONAL LLC,67457-0922-30,Sulfamethoxazole-Trimethoprim,400-80 MG,30,1,6,6
+Vasopressin,"Amphastar Pharmaceuticals, Inc.",00548-9701-00,Vasopressin,20 UNITS,1,10,1,10
+Vasopressin,"PAR PHARMACEUTICAL, INC",42023-0164-10,VASOSTRICT,20 UNITS,1,10,1,10
+Vasopressin,"PAR PHARMACEUTICAL, INC",42023-0164-25,Vasopressin,20 UNITS,1,25,1,25
+Vasopressin,"PAR PHARMACEUTICAL, INC",42023-0190-01,VASOSTRICT,20 UNITS,10,1,10,10
+Vasopressin,PAR PHARMACEUTICAL,42023-0219-10,VASOSTRICT,20 UNITS,100,10,2,20
+Vasopressin,PAR PHARMACEUTICAL,42023-0237-10,VASOSTRICT,20 UNITS,100,10,1,10
+Vasopressin,EAGLE PHARMACEUTICALS INC.,42367-0570-87,Vasopressin,20 UNITS,1,25,1,25
+Vasopressin,"DR. REDDY'S LABORATORIES, INC.",43598-0085-25,Vasopressin,20 UNITS,1,25,1,25
+Vasopressin,AUROMEDICS PHARMA,55150-0370-25,VASOPRESSIN,20 UNITS,1,25,1,25
+Vasopressin,AUROMEDICS PHARMA,55150-0371-25,Vasopressin,20 UNITS,1,25,1,25
+Vasopressin,AMNEAL BIOSCIENCES,70121-1642-05,VASOPRESSIN,20 UNITS,1,25,1,25
+Vasopressin,AMNEAL BIOSCIENCES,70121-1642-07,Vasopressin,20 UNITS,1,10,1,10
+Vasopressin (American Regent),AMERICAN REGENT,00517-1020-25,Vasopressin,20 UNITS,1,25,1,25

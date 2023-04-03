@@ -1,0 +1,86 @@
+
+url = 'https://www.cms.gov/medicare/medicare-part-b-drug-average-sales-price/2023-asp-drug-pricing-files'
+response = requests.get(url)
+init_soup = BeautifulSoup(response.text, 'html.parser')
+
+# get the latest link
+ul = init_soup.select('#block-cms-evo-cmsmainnavigation > ul > li:nth-child(2) > ul')[0]
+lis = ul.find_all('li')
+latest_link = lis[0].find('a')['href']
+
+soap = BeautifulSoup(requests.get('https://www.cms.gov' + latest_link).text, 'html.parser')
+# get the div with class = 'changed-date'
+div = soap.find('div', {'class': 'changed-date'})
+# get the date
+date_modified = div.find('div', {'class': 'field__item'}).text
+print(date_modified)
+
+date_changed = False
+# open the data.json file
+with open('data.json', 'r') as f:
+    data = json.load(f)
+    prev_date = data['date_modified']
+    if prev_date:
+        if prev_date != date_modified:
+            print('Data has been updated')
+            date_changed = True
+            data['date_modified'] = date_modified
+        else:
+            print('Data has not been updated')
+            
+    else:
+        print('Data has been updated')
+        data['date_modified'] = date_modified
+
+# write the data back to the file
+with open('data.json', 'w') as f:
+    json.dump(data, f)
+    
+
+
+if date_changed:
+    # get the div with class 'field__items'
+    field_ul = soap.find('ul', {'class': 'field__items'})
+
+    asp_pricing_found = False
+    noc_pricing_found = False
+    asp_ndc_hcpcs_found = False
+
+    # Define a dictionary to map the file names to their respective URLs and extract paths
+    file_urls = {
+        'asp-pricing': {
+            'url': '',
+            'extract_path': 'data/asp-pricing'
+        },
+        'noc-pricing': {
+            'url': '',
+            'extract_path': 'data/noc-pricing'
+        },
+        'asp-ndc-hcpcs': {
+            'url': '',
+            'extract_path': 'data/asp-ndc-hcpcs'
+        }
+    }
+
+    # Loop through the li items until all the necessary files have been found
+    for li in field_ul.find_all('li'):
+        href = li.find('a')['href']
+        for key in file_urls.keys():
+            if key in href:
+                file_urls[key]['url'] = 'https://www.cms.gov' + href
+                break
+        if all(val['url'] != '' for val in file_urls.values()):
+            break
+
+    # Download and extract the necessary files
+    for key, value in file_urls.items():
+        with requests.get(value['url']) as response:
+            with open(key + '.zip', 'wb') as f:
+                f.write(response.content)
+            with zipfile.ZipFile(key + '.zip', 'r') as zip_ref:
+                # remove the previous files
+                for file in os.listdir(value['extract_path']):
+                    os.remove(os.path.join(value['extract_path'], file))
+                    import time
+                    time.sleep(3)
+                zip_ref.extractall(value['extract_path'])
